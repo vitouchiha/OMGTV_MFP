@@ -153,6 +153,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -336,6 +339,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/157497519660249c278f94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -442,6 +448,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
@@ -523,7 +532,7 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1930,52 +1939,52 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="Colombia - Primera B - Real Cartagena vs Internacional Palmira" tvg-name="03:05 Colombia - Primera B : Real Cartagena vs Internacional Palmira - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-392.php
 
-#EXTINF:-1 tvg-id="ATP - BASTAD - Rejchtman Vinciguerra W. vs De Jong J." tvg-name="13:30 ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Rejchtman%20Vinciguerra%20W._vs_De%20Jong%20J..png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - BASTAD - Rejchtman Vinciguerra W. vs De Jong J." tvg-name="13:30 ATP - BASTAD : Rejchtman Vinciguerra W. vs De Jong J. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1507.php
 
-#EXTINF:-1 tvg-id="ATP - BASTAD - Collignon R. vs Darderi L." tvg-name="15:00 ATP - BASTAD : Collignon R. vs Darderi L. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Collignon%20R._vs_Darderi%20L..png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - BASTAD - Collignon R. vs Darderi L." tvg-name="15:00 ATP - BASTAD : Collignon R. vs Darderi L. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1507.php
 
 #EXTINF:-1 tvg-id="ATP - GSTAAD - Majchrzak K. vs Atmane T." tvg-name="10:30 ATP - GSTAAD : Majchrzak K. vs Atmane T. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Buse I. vs Djere L." tvg-name="12:00 ATP - GSTAAD : Buse I. vs Djere L. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Buse%20I._vs_Djere%20L..png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Buse I. vs Djere L." tvg-name="12:00 ATP - GSTAAD : Buse I. vs Djere L. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Cazaux A. vs Basilashvili N." tvg-name="15:00 ATP - GSTAAD : Cazaux A. vs Basilashvili N. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Cazaux%20A._vs_Basilashvili%20N..png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Cazaux A. vs Basilashvili N." tvg-name="15:00 ATP - GSTAAD : Cazaux A. vs Basilashvili N. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Stricker D. vs Herbert P." tvg-name="17:30 ATP - GSTAAD : Stricker D. vs Herbert P. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Stricker%20D._vs_Herbert%20P..png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Stricker D. vs Herbert P." tvg-name="17:30 ATP - GSTAAD : Stricker D. vs Herbert P. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1508.php
 
 #EXTINF:-1 tvg-id="ATP - LOS CABOS - Grandstand" tvg-name="03:00 ATP - LOS CABOS : Grandstand - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Los Cabos", Tennis Stream 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Wuerth T. vs Parry D." tvg-name="13:30 WTA - HAMBURG : Wuerth T. vs Parry D. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Wuerth%20T._vs_Parry%20D..png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Wuerth T. vs Parry D." tvg-name="13:30 WTA - HAMBURG : Wuerth T. vs Parry D. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Chirico L. vs Sherif M." tvg-name="15:00 WTA - HAMBURG : Chirico L. vs Sherif M. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Chirico%20L._vs_Sherif%20M..png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Chirico L. vs Sherif M." tvg-name="15:00 WTA - HAMBURG : Chirico L. vs Sherif M. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Uchijima M. vs Schunk N." tvg-name="17:00 WTA - HAMBURG : Uchijima M. vs Schunk N. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Uchijima%20M._vs_Schunk%20N..png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Uchijima M. vs Schunk N." tvg-name="17:00 WTA - HAMBURG : Uchijima M. vs Schunk N. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Bulgaru M. vs Teichmann J." tvg-name="14:30 WTA - IASI : Bulgaru M. vs Teichmann J. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Bulgaru%20M._vs_Teichmann%20J..png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - IASI - Bulgaru M. vs Teichmann J." tvg-name="14:30 WTA - IASI : Bulgaru M. vs Teichmann J. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1504.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Fett J. vs Erjavec V." tvg-name="14:30 WTA - IASI : Fett J. vs Erjavec V. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Fett%20J._vs_Erjavec%20V..png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - IASI - Fett J. vs Erjavec V." tvg-name="14:30 WTA - IASI : Fett J. vs Erjavec V. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1505.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Begu I. vs Hibino N." tvg-name="16:00 WTA - IASI : Begu I. vs Hibino N. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Begu%20I._vs_Hibino%20N..png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - IASI - Begu I. vs Hibino N." tvg-name="16:00 WTA - IASI : Begu I. vs Hibino N. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1504.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Shymanovich I. vs Chwalinska M." tvg-name="16:00 WTA - IASI : Shymanovich I. vs Chwalinska M. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Shymanovich%20I._vs_Chwalinska%20M..png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - IASI - Shymanovich I. vs Chwalinska M." tvg-name="16:00 WTA - IASI : Shymanovich I. vs Chwalinska M. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1505.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Bogdan A. vs Gracheva V." tvg-name="17:30 WTA - IASI : Bogdan A. vs Gracheva V. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Bogdan%20A._vs_Gracheva%20V..png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - IASI - Bogdan A. vs Gracheva V." tvg-name="17:30 WTA - IASI : Bogdan A. vs Gracheva V. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1504.php
 
-#EXTINF:-1 tvg-id="WTA - IASI - Maristany G. vs Li A." tvg-name="17:30 WTA - IASI : Maristany G. vs Li A. - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Maristany%20G._vs_Li%20A..png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - IASI - Maristany G. vs Li A." tvg-name="17:30 WTA - IASI : Maristany G. vs Li A. - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-1505.php
 
 #EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
@@ -2008,7 +2017,7 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-714.php
 
-#EXTINF:-1 tvg-id="Courtside - Los Cabos-ATP Early Rounds Live - Courtside - Los Cabos-ATP Early Rounds Live" tvg-name="02:00 Courtside - Los Cabos-ATP Early Rounds Live - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Courtside_vs_Los%20Cabos-ATP%20Early%20Rounds%20Live.png" group-title="Tennis", Tennis Channel USA
+#EXTINF:-1 tvg-id="Courtside - Los Cabos-ATP Early Rounds Live - Courtside - Los Cabos-ATP Early Rounds Live" tvg-name="02:00 Courtside - Los Cabos-ATP Early Rounds Live - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-40.php
 
 #EXTINF:-1 tvg-id="British Premiership Sheffield Tigers - Oxford Spires - British Premiership Sheffield Tigers - Oxford Spires" tvg-name="20:30 British Premiership Sheffield Tigers - Oxford Spires - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
@@ -2029,97 +2038,97 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero - Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero" tvg-name="17:00 Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", RAI Sport 1 Italy
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="Asia Cup Women - New Zealand W vs South Korea W" tvg-name="07:30 Asia Cup Women : New Zealand W vs South Korea W - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/New%20Zealand%20W_vs_South%20Korea%20W.png" group-title="Basket", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Asia Cup Women - New Zealand W vs South Korea W" tvg-name="07:30 Asia Cup Women : New Zealand W vs South Korea W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="Asia Cup Women - Lebanon W vs Australia W" tvg-name="10:30 Asia Cup Women : Lebanon W vs Australia W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="Asia Cup Women - Philippines W vs Japan W" tvg-name="13:30 Asia Cup Women : Philippines W vs Japan W - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Philippines%20W_vs_Japan%20W.png" group-title="Basket", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Asia Cup Women - Philippines W vs Japan W" tvg-name="13:30 Asia Cup Women : Philippines W vs Japan W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="EuroBasket U20 - Poland U20 vs Israel U20" tvg-name="14:20 EuroBasket U20 : Poland U20 vs Israel U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="EuroBasket U20 - Greece U20 vs Romania U20" tvg-name="17:00 EuroBasket U20 : Greece U20 vs Romania U20 - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Greece%20U20_vs_Romania%20U20.png" group-title="Basket", ERT 3 Greece
+#EXTINF:-1 tvg-id="EuroBasket U20 - Greece U20 vs Romania U20" tvg-name="17:00 EuroBasket U20 : Greece U20 vs Romania U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ERT 3 Greece
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Atlanta%20Hawks_vs_Houston%20Rockets.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Atlanta%20Hawks_vs_Houston%20Rockets.png" group-title="Basket", Space City Home Network
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Space City Home Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-921.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Atlanta%20Hawks_vs_Houston%20Rockets.png" group-title="Basket", FanDuel Sports Network Southeast
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Southeast
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-904.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Atlanta%20Hawks_vs_Houston%20Rockets.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Indiana%20Pacers_vs_Chicago%20Bulls.png" group-title="Basket", ESPNU USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Indiana%20Pacers_vs_Chicago%20Bulls.png" group-title="Basket", FanDuel Sports Network Indiana
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Indiana
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-894.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Charlotte%20Hornets_vs_Dallas%20Mavericks.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Charlotte%20Hornets_vs_Dallas%20Mavericks.png" group-title="Basket", Sportsnet One
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportsnet One
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-411.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Charlotte%20Hornets_vs_Dallas%20Mavericks.png" group-title="Basket", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-146.php
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Chicago%20Sky%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", TSN5
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN5
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-115.php
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Chicago%20Sky%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", TSN4
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-114.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Miami%20Heat_vs_Boston%20Celtics.png" group-title="Basket", ESPNU USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Miami%20Heat_vs_Boston%20Celtics.png" group-title="Basket", TSN1
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-111.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Miami%20Heat_vs_Boston%20Celtics.png" group-title="Basket", TSN3
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN3
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-113.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Miami%20Heat_vs_Boston%20Celtics.png" group-title="Basket", FanDuel Sports Network Sun
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Sun
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-905.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Utah%20Jazz_vs_San%20Antonio%20Spurs.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Utah%20Jazz_vs_San%20Antonio%20Spurs.png" group-title="Basket", Sportsnet One
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportsnet One
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-411.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Utah%20Jazz_vs_San%20Antonio%20Spurs.png" group-title="Basket", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-146.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Sacramento%20Kings_vs_Phoenix%20Suns.png" group-title="Basket", ESPNU USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Sacramento%20Kings_vs_Phoenix%20Suns.png" group-title="Basket", NBCS California
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBCS California
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-755.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Sacramento%20Kings_vs_Phoenix%20Suns.png" group-title="Basket", TSN4
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-114.php
 
-#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Golden State Valkyries W - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/Phoenix%20Mercury%20W_vs_Golden%20State%20Valkyries%20W.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Golden State Valkyries W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/LA%20Clippers_vs_Los%20Angeles%20Lakers.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-404.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/LA%20Clippers_vs_Los%20Angeles%20Lakers.png" group-title="Basket", Sportsnet One
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportsnet One
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-411.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/LA%20Clippers_vs_Los%20Angeles%20Lakers.png" group-title="Basket", FanDuel Sports Network SoCal
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network SoCal
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-902.php
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://git.pizzapi.uk/nomegit/nomerepo/raw/branch/main/logos/LA%20Clippers_vs_Los%20Angeles%20Lakers.png" group-title="Basket", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-146.php
 
 #EXTINF:-1 tvg-id="World Championship U20 - England U20 vs Wales U20" tvg-name="15:30 World Championship U20 : England U20 vs Wales U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", SuperSport Rugby
