@@ -18,9 +18,6 @@ https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
-https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -276,9 +273,6 @@ https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -405,9 +399,6 @@ https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -531,6 +522,9 @@ https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -613,6 +607,9 @@ https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
@@ -1840,6 +1837,57 @@ https://nzopertv.onrender.com/proxy/mpd/manifest.m3u8?api_password=tv&d=https://
 https://nzopertv.onrender.com/proxy/mpd/manifest.m3u8?api_password=tv&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="PPV - MainStage | Tomorrowland 2025 LIVE - PPV - MainStage | Tomorrowland 2025 LIVE" tvg-name="16:30 PPV - MainStage | Tomorrowland 2025 LIVE - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE" tvg-name="16:30 PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="Hall Of Fame Fight Night - Shane Mosley vs Matt Floyd" tvg-name="19:00 Hall Of Fame Fight Night: Shane Mosley vs Matt Floyd - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 Limited Late Model 30 at Stafford Speedway - 2025 Limited Late Model 30 at Stafford Speedway" tvg-name="23:30 2025 Limited Late Model 30 at Stafford Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Fairbury - World of Outlaws Late Models Fairbury" tvg-name="00:15 World of Outlaws Late Models Fairbury - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Attica Raceway Sprint Cars - Attica Raceway Sprint Cars" tvg-name="00:30 Attica Raceway Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 USAC Indiana Sprint Week at Lincoln Park Speedway - 2025 USAC Indiana Sprint Week at Lincoln Park Speedway" tvg-name="00:30 2025 USAC Indiana Sprint Week at Lincoln Park Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints at Mississippi Thunder Speedway - 2025 IRA Sprints at Mississippi Thunder Speedway" tvg-name="00:30 2025 IRA Sprints at Mississippi Thunder Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="2025 Porsche Sprint Challenge at Lauguna Seca - 2025 Porsche Sprint Challenge at Lauguna Seca" tvg-name="00:30 2025 Porsche Sprint Challenge at Lauguna Seca - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="00:45 World of Outlaws Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Utica-Rome Speedway - 2025 Weekly Racing at Utica-Rome Speedway" tvg-name="00:45 2025 Weekly Racing at Utica-Rome Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="2025 Southern Nationals at North Georgia Speedway - 2025 Southern Nationals at North Georgia Speedway" tvg-name="01:00 2025 Southern Nationals at North Georgia Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Xtreme Outlaw Midgets Arrowhead - Xtreme Outlaw Midgets Arrowhead" tvg-name="01:45 Xtreme Outlaw Midgets Arrowhead - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="XR Big Deal Ogilvie Raceway - XR Big Deal Ogilvie Raceway" tvg-name="02:00 XR Big Deal Ogilvie Raceway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Windy Hollow - American Sprint Car Series Windy Hollow" tvg-name="02:15 American Sprint Car Series Windy Hollow - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="Jackson Sprint Cars - Jackson Sprint Cars" tvg-name="02:15 Jackson Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="Cage Fury Fighting Championships - CFFC: BJJ 14" tvg-name="03:00 Cage Fury Fighting Championships : CFFC: BJJ 14 - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-179.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Sligo Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Cork City vs Sligo Rovers - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 https://nzopertv.onrender.com/proxy/hls/manifest.m3u8?api_password=tv&d=https://thedaddy.click/stream/stream-151.php
 
